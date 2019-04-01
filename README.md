@@ -16,28 +16,28 @@ in order for the widgets to work properly.
 ### Project description:
 1. Original image:
 
-[original](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/original2.PNG?raw=true)
+![original](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/original2.PNG?raw=true)
 
 2. Radon transform:
 
-[radon](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/sinogram2.PNG?raw=true)
+![radon](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/sinogram2.PNG?raw=true)
 
 3. Backprojection (without filtering):
 
-[backprojection](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/without-filtering2.PNG?raw=true)
+![backprojection](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/without-filtering2.PNG?raw=true)
 
 4. Convolution kernel:
 
-[kernel](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/kernel.PNG?raw=true)
+![kernel](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/kernel.PNG?raw=true)
 
 5. Sinogram after convolution:
 
-[convolved-sinogram](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/convolved-sinogram2.PNG?raw=true)
+![convolved-sinogram](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/convolved-sinogram2.PNG?raw=true)
 
 6. Backprojection with filters:
 
-[filtered](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/simple-filter.PNG?raw=true)
+![filtered](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/simple-filter.PNG?raw=true)
 
 7. Gamma correction and final result:
 
-[gamma](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/final-result.PNG?raw=true)
+![gamma](https://raw.githubusercontent.com/damian-horna/backprojection-tomography/master/charts/results/final-result.PNG?raw=true)
