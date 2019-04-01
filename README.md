@@ -40,4 +40,4 @@ in order for the widgets to work properly.
 
 7. Gamma correction and final result:
 
-![gamma](charts/results/final-result2.PNG?raw=true)
+![gamma](charts/results/gamma-correction.PNG?raw=true)
